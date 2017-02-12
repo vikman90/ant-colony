@@ -1,0 +1,12 @@
+#ifndef GLOBAL_H
+#define GLOBAL_H
+
+#define WINDOW_INTERVAL 20
+
+#define MAP_DEGRADEPHER_INTERVAL 100
+#define MAP_DEGRADEPHER_FACTOR 1.01
+
+#define ANT_INTERVAL 10
+#define ANT_PHEROMONE 0.1
+
+#endif // GLOBAL_H
